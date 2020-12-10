@@ -30,5 +30,5 @@ There is only 1 notebook available here to showcase work related to the above qu
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to the Royce Kimmons for the Exam Score dataset and Kaggle for the Students Performance in Exams dataset You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/c/kaggle-survey-2020). Otherwise, feel free to use the code here as you would like! 
+Must give credit to Kaggle for the Kaggle-ML-DS-Survey-2020 dataset. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/c/kaggle-survey-2020). Otherwise, feel free to use the code here as you would like! 
 .
